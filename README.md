@@ -2,7 +2,7 @@
 A "Hello, CUDA" example with an empty kernel
 
 ## Notes
-- ".cu" ext for source code containing CUDA code
+- ".cu" ext for source code containing CUDA syntax
 - nvcc compilation processs
 - CUDA syntax
 
