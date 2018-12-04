@@ -11,4 +11,4 @@ A "Hello, CUDA" example with an empty kernel
     nvcc -o out/empty-kernel empty-kernel.cu
 
 ## TODOs
-Translate README.md to frech
+- Translate README.md to french
