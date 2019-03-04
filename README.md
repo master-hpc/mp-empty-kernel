@@ -1,5 +1,5 @@
 # "Empty Kernel"
-A "Hello, CUDA" example with an empty kernel
+> A "Hello, CUDA" example with an empty kernel
 
 ## Notes
 - ".cu" ext for source code containing CUDA syntax
